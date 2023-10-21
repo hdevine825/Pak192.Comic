@@ -99,7 +99,7 @@ Rowhouse\n\nThe buldge in the upper floor allows for more living space. Clever d
 com_cl3_E0_01_03
 Blacksmith\n\nThe horseshoe on the buildings fassade shows everyone that this house belongs to a member of the smith guild. As if the anvil in the yard wouldn't have been indicative enough
 com_cl3_E3_01_03
-Pizza Runner\n\nSpecialité de Maison: Pizza all'America, a pizza with french fries, ketchup and half a chicken as toppings.
+Pizza Runner\n\nSpecialitï¿½ de Maison: Pizza all'America, a pizza with french fries, ketchup and half a chicken as toppings.
 com_cl3_E3_01_05
 Eppendorf
 com_cl3_E3_01_07
@@ -201,7 +201,7 @@ Upper West\n\nPlanned with the project name "Atlas Tower", this building marks t
 com_cl3_E5_06_30
 Friho-Tower\n\nThis magnificent building is home to the family-run enterprise of the same name. As the logo indicates, they are in the coffee business - specifically coffee vending machines which they restock, clean and empty the cashbox from.
 com_cl3_E5_09_27
-Channel Tower\n\nIf you ever come near the Channel Tower, you should definitely try a cup of coffee at the café in the 5.6m high foyer. 
+Channel Tower\n\nIf you ever come near the Channel Tower, you should definitely try a cup of coffee at the cafï¿½ in the 5.6m high foyer. 
 com_cl3_E5_10_12
 Gymnasium
 com_cl3_E5_11_12
@@ -229,7 +229,7 @@ Office\n\nSandy Torkai from the sixth floor just earned her first billion when s
 com_cl4_E2_01_07
 Plaza
 com_cl4_E3_01_03
-Pizza Runner\n\nSpecialité de Maison: Pizza all'America, a pizza with french fries, ketchup and half a chicken as toppings.
+Pizza Runner\n\nSpecialitï¿½ de Maison: Pizza all'America, a pizza with french fries, ketchup and half a chicken as toppings.
 com_cl4_E3_02_03
 Pizza Joint\n\nThis special pizza place offers only vegan meals. Furthermore, they are gluten free, kosher, halal, counter-clockwise and free of dihydrogenmonoxyd.
 com_cl4_E4_01_18
@@ -293,17 +293,17 @@ Corporate building
 com_cl5_E4_01_12
 Commercial offices
 com_cl5_E4_01_15
-General I. Insurance\n\nOver a century ago, General Ignatius von Simubürgen was well known for gambling on the survival on his troops in battle. Soldiers would bid on their death so their families would have money in case they died - and because the general did not like to lose.
+General I. Insurance\n\nOver a century ago, General Ignatius von Simubï¿½rgen was well known for gambling on the survival on his troops in battle. Soldiers would bid on their death so their families would have money in case they died - and because the general did not like to lose.
 com_cl5_E4_01_18
 Commercial offices\n\nThere can be done quite a bit of mischief with an office copier. When Miss Buttercup was a bit early this morning, she had fun grimacing right at the copyplate with turned eyes and hanging tongue.\nYesterday after office hours, Mr. Manyhair was equally delighted getting copies of his fundament.
 com_cl5_E4_01_20
-General I. Insurance\n\nOver a century ago, General Ignatius von Simubürgen was well known for gambling on the survival on his troups in battle. Soldiers would bid on their death so their families would have money in case they died - and because the general did not like to lose.
+General I. Insurance\n\nOver a century ago, General Ignatius von Simubï¿½rgen was well known for gambling on the survival on his troups in battle. Soldiers would bid on their death so their families would have money in case they died - and because the general did not like to lose.
 com_cl5_E4_02_12
 Commercial offices
 com_cl5_E4_02_15
-General I. Insurance\n\nOver a century ago, General Ignatius von Simubürgen was well known for gambling on the survival on his troups in battle. Soldiers would bid on their death so their families would have money in case they died - and because the general did not like to lose.
+General I. Insurance\n\nOver a century ago, General Ignatius von Simubï¿½rgen was well known for gambling on the survival on his troups in battle. Soldiers would bid on their death so their families would have money in case they died - and because the general did not like to lose.
 com_cl5_E4_02_20
-General I. Insurance\n\nOver a century ago, General Ignatius von Simubürgen was well known for gambling on the survival on his troups in battle. Soldiers would bid on their death so their families would have money in case they died - and because the general did not like to lose.
+General I. Insurance\n\nOver a century ago, General Ignatius von Simubï¿½rgen was well known for gambling on the survival on his troups in battle. Soldiers would bid on their death so their families would have money in case they died - and because the general did not like to lose.
 com_cl5_E4_03_15
 Shops and offices
 com_cl5_E4_03_18
@@ -1733,7 +1733,7 @@ factory_gasstation_details
 gasstation_small
 Small Petrol Station
 factory_gasstation_small_details
-<title>Small Petrol Station</title>\n<p>This small petrol station was unharmed by the crisis; the price for a gallon petrol is unchanged at 3 ¢redits since 1999.</p>
+<title>Small Petrol Station</title>\n<p>This small petrol station was unharmed by the crisis; the price for a gallon petrol is unchanged at 3 ï¿½redits since 1999.</p>
 gelatti
 Gelatti
 glassworks
@@ -2234,6 +2234,10 @@ track_private_modern
 Private Track
 track_sigpriority_light
 priority signal
+track_sigchoose
+platform choose signal
+track_sigchooseend
+end of platform choose
 #________________________________roadsign - road________________________________
 #________________________________roadsign - road________________________________
 road_auswahl1
@@ -2701,11 +2705,11 @@ Steam Engine Baden VII a
 B_VIIa_Tender
 Steam Engine Baden VII a (tender)
 B2ueh
-Passenger Car "Spantenwagen" Type B2üh 
+Passenger Car "Spantenwagen" Type B2ï¿½h 
 B2ueh2
-Passenger Car "Spantenwagen" B2üh  | 2nd Generation
+Passenger Car "Spantenwagen" B2ï¿½h  | 2nd Generation
 B4ueh
-Express Train Car B4üh "Schürzenwagen"
+Express Train Car B4ï¿½h "Schï¿½rzenwagen"
 B514
 Double Deck Eletric Car Type B512 "Desiro Double Deck"
 Bayrische_D_VIII
@@ -3203,11 +3207,11 @@ Underground Stock BVG Type CII (third rail)
 CII_2-BVG
 Underground Stock BVG Type CII (third rail)
 Cityshuttle
-"CityShuttle" ÖBB Bmpz-s 5081 80-73
+"CityShuttle" ï¿½BB Bmpz-s 5081 80-73
 Cityshuttle1
-"CityShuttle" ÖBB Bmpz-s 5081 80-75
+"CityShuttle" ï¿½BB Bmpz-s 5081 80-75
 Cityshuttle2
-"CityShuttle" ÖBB Bmpz-s 5081 80-75
+"CityShuttle" ï¿½BB Bmpz-s 5081 80-75
 Class 390 Pendolino
 Tilting Intercity Class 390 "Pendolino" | Control Car
 Class 390 Pendolino Back
@@ -4039,9 +4043,9 @@ Express Coach "Interregio"
 JW_Bmz_1989_NJ
 Intercity Coach Bmz 73 "Nightjet"
 Koef_II
-Switcher Köf II
+Switcher Kï¿½f II
 Koef_III
-Switcher Modified Köf II
+Switcher Modified Kï¿½f II
 Kohlewagen_Track1
 Bulk gondola
 Kohlewagen_Track2
@@ -4099,15 +4103,15 @@ Freight Locomotive BR E 50
 Lokomotive_1960_BR_216_V
 Diesel Locomotive BR V 160 "Lollo"
 Lokomotive_1964_BR_110_3
-Express Locomotive BR E 10.3 "Bügelfalte"
+Express Locomotive BR E 10.3 "Bï¿½gelfalte"
 Lokomotive_1974_BR_218
 Diesel Locomotive BR 218
 Lokomotive_1975_BR_110
 Express Locomotive BR 110
 Lokomotive_1975_BR_110_3
-Express Locomotive BR 110.3 "Bügelfalte"
+Express Locomotive BR 110.3 "Bï¿½gelfalte"
 Lokomotive_1975_BR_112
-Express Locomotive BR 112 "Bügelfalte"
+Express Locomotive BR 112 "Bï¿½gelfalte"
 Lokomotive_1975_BR_140
 Electric Locomotive BR 140
 Lokomotive_1975_BR_141
@@ -4121,11 +4125,11 @@ Diesel Locomotive BR 216
 Lokomotive_1986_BR_110
 Express Locomotive BR 110
 Lokomotive_1986_BR_110_3
-Express Locomotive BR 110.3 "Bügelfalte"
+Express Locomotive BR 110.3 "Bï¿½gelfalte"
 Lokomotive_1986_BR_111
 Express Locomotive BR 111
 Lokomotive_1986_BR_113
-Express Locomotive BR 113 "Bügelfalte"
+Express Locomotive BR 113 "Bï¿½gelfalte"
 Lokomotive_1986_BR_140
 Electric Locomotive BR 140
 Lokomotive_1986_BR_141
@@ -4145,11 +4149,11 @@ Electric Locomotive EG 3100 "Eurosprinter"
 Lokomotive_1999_BR_110
 Electric Locomotive BR 110
 Lokomotive_1999_BR_110_3
-Electric Locomotive BR 110.3 "Bügelfalte"
+Electric Locomotive BR 110.3 "Bï¿½gelfalte"
 Lokomotive_1999_BR_111
 Express Locomotive BR 111
 Lokomotive_1999_BR_113
-Electric Locomotive BR 113 "Bügelfalte"
+Electric Locomotive BR 113 "Bï¿½gelfalte"
 Lokomotive_1999_BR_140
 Freight Locomotive BR 140
 Lokomotive_1999_BR_141
@@ -4467,11 +4471,11 @@ Double Deck Coach DBpkza 781.0 "Innovations-Doppelstockwagen"
 Passenger_Train_2004_Innovations-Doppelstockwagen_DBpza_781_0_LNVG
 Double Deck Coach DBpkza 781.0 "Innovations-Doppelstockwagen"
 Passenger_Train_2006_Eurofima_DB_Regio_0
-Intercity Coach "MüNüX"
+Intercity Coach "Mï¿½Nï¿½X"
 Passenger_Train_2006_Eurofima_DB_Regio_2
-Intercity Coach "MüNüX"
+Intercity Coach "Mï¿½Nï¿½X"
 Passenger_Train_2006_Eurofima_DB_Regio_3
-Intericy Coach "MüNüX"
+Intericy Coach "Mï¿½Nï¿½X"
 Passenger_Train_2007_City_Night_Line_WRmz131
 Intercity Catering Coach WRmz 131 "City Night Line"
 Passenger_Train_2008_Railjet_0
@@ -4557,7 +4561,7 @@ Tilting Intercity ETR 610 "Pendolino"
 Pendolino_4_4
 Tilting Intercity ETR 610 "Pendolino"
 Preuszische_P6
-Steam Engine Preußische P 6
+Steam Engine Preuï¿½ische P 6
 Preuszische_P6_Tender
 Steam Engine Type P6 (tender)
 Preuszischer_Abteilwagen
@@ -4749,9 +4753,9 @@ Double Deck Intercity Multiple Unit Type WRB502 "Twindexx Express"
 SBB_Z2
 Parcel Car Z2
 Schuerzenpostwagen
-Parcel Car "Schürzenwagen"
+Parcel Car "Schï¿½rzenwagen"
 Schuerzenwagen
-Express Coach C4ü-38 "Schürzenwagen"
+Express Coach C4ï¿½-38 "Schï¿½rzenwagen"
 Siemens_Schlafwagen_2003_CNL
 Couchette WLABmz 173 "City Night Line"
 Siemens_Schlafwagen_2003_NJ
@@ -5939,9 +5943,9 @@ Setra S321UL articulated intercity bus
 Ueberlandbus 321UL Schluss
 Setra S321UL articulated intercity bus 
 Ueberlandbus_MBO_405
-Mercedes-Benz O 405Ü intercity bus
+Mercedes-Benz O 405ï¿½ intercity bus
 Ueberlandbus_MBO_530C1
-Mercedes-Benz O 530Ü "Citaro" intercity bus
+Mercedes-Benz O 530ï¿½ "Citaro" intercity bus
 Ueberlandniederflurbus 315NF
 Setra S315NF low floor intercity bus 
 Ueberlandniederflurbus 319NF
@@ -6473,9 +6477,9 @@ Light Rail Car K5000
 K5000_2-VRR
 Light Rail Car K5000
 Kriegsstrassenbahnbeiwagen
-Tram "Kriegsstraßenbahn"
+Tram "Kriegsstraï¿½enbahn"
 Kriegsstrassenbahnwagen
-Tram "Kriegsstraßenbahn"
+Tram "Kriegsstraï¿½enbahn"
 M_1-VRR
 Light Rail Car M
 M_2-VRR
@@ -6495,7 +6499,7 @@ Low Floor Tram NGT12
 NGT12_4
 Low Floor Tram NGT12
 Poestlingbergbahn_Wagen_II
-Pöstlingbergbahn II
+Pï¿½stlingbergbahn II
 Stadler_Tramlink_1
 Low Floor Tram "Tramlink"
 Stadler_Tramlink_2
