@@ -1,0 +1,26 @@
+obj=vehicle
+name=Car_Milk_1879_Blatt_8
+# KPEV Blatt 8
+# Created from Car_Piece_Goods_1879_Blatt_8 to carry milk by rail in 1800s. Costs increased to account for loading milk 
+copyright=Flemmbrav
+intro_year=1850
+intro_month=3
+retire_year=1905
+retire_month=3
+freight=milk
+# Carries 3/4ths the weight of cargo of the box goods version
+payload=15
+cost=50376
+# Running cost increased to account for loading milk jugs
+runningcost=55
+# weigth estimated
+weight=10
+# 
+speed=45
+length=4
+waytype=narrowgauge_track
+loading_time=4580
+constraint[prev][0]=any
+
+EmptyImage[S,W,SE,SW,N,E,NW,NE]=./image/Car_Piece_Goods_1879_KPEV_Blatt_8.0.<$0>
+#FreightImage[0-4][S,W,SE,SW,N,E,NW,NE]=./image/Car_Piece_Goods_1879_KPEV_Blatt_8.<$0+1>.<$1>
